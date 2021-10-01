@@ -1,0 +1,1 @@
+I changed the repo name manually on both ends. See if it works without clone again
