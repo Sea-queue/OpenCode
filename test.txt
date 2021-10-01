@@ -1,1 +1,4 @@
 I changed the repo name manually on both ends. See if it works without clone again
+Yeah! it worked,
+now new problem, in Ubuntu, for every git repo U need to set the url to ssh
+in order to upload directly.
